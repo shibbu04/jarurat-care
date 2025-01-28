@@ -15,7 +15,7 @@ const app = express();
 
 // Configure CORS with specific options
 app.use(cors({
-  origin: 'http://localhost:5173', // Allow your frontend URL
+  origin: process.env.FRONTEND_URL, // Use environment variable for frontend URL
   methods: ['GET', 'POST', 'PATCH', 'DELETE'],
   allowedHeaders: ['Content-Type'],
 }));
