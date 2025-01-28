@@ -12,7 +12,7 @@
 
 ## 📧 Live Link
 
-Project Link: [https://jarurat-care.vercel.app/](https://jarurat-care.vercel.app/)
+Project Link: [https://jarurat-care-app.vercel.app/](https://jarurat-care-app.vercel.app/)
 
 
 ## 🚀 Features
